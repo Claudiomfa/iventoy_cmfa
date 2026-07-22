@@ -1,0 +1,17 @@
+# iVentoy CMFA
+
+Automatic synchronization layer for ziggyds/iventoy.
+
+Features
+
+✔ Preserve license
+
+✔ Preserve iventoy.xml
+
+✔ Automatic synchronization
+
+✔ Backup
+
+✔ Restore
+
+✔ GitHub Actions
