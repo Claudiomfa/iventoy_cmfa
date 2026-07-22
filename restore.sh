@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Backup not implemented yet"
+echo "Restore not implemented yet"
